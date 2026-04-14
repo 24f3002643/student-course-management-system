@@ -24,6 +24,14 @@ Flask-based web application for managing students, courses, and enrollments with
 
 ---
 
+## Database
+
+- Uses SQLite (`week7_database.sqlite3`)
+- Database file is not included in the repository
+- Database tables are automatically created on first run
+
+---
+
 ## Project Structure
 ```
 .
