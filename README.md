@@ -20,7 +20,7 @@ Flask-based web application for managing students, courses, and enrollments with
 - Flask
 - SQLAlchemy
 - SQLite
-- HTML, CSS
+- HTML (Basic UI)
 
 ---
 
