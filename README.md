@@ -31,6 +31,7 @@ Flask-based web application for managing students, courses, and enrollments with
 ├── templates/
 ├── static/
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
