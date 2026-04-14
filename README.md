@@ -41,8 +41,9 @@ Flask-based web application for managing students, courses, and enrollments with
 
 ```bash
 git clone https://github.com/24f3002643/student-course-management-system
+cd student-course-management-system  # enter project directory
 
-python -m venv venv
+python3 -m venv venv
 
 # Linux / Mac
 source venv/bin/activate
